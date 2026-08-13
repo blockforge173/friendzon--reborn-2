@@ -4,7 +4,7 @@
   "fond":"maison_eva_soiree",
   "debut":"retourApresCinematique",
   "scenes":{
-    "retrourApresCinematique":{
+    "retourApresCinematique":{
       "dialogues":[
         {
           "personnage":"narrateur",
