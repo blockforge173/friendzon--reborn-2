@@ -2,9 +2,9 @@
   "titre":"Chapitre 1 - Sans nouvelles",
   "musique":"tension_legere",
   "fond":"maison_eva_soiree",
-  "debut":"retourApresCinematique",
+  "debut":"debutChapitre1",
   "scenes":{
-    "retourApresCinematique":{
+    "debutChapitre1":{
       "dialogues":[
         {
           "personnage":"narrateur",
