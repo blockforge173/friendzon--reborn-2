@@ -216,10 +216,10 @@
           "texte":"Quelqu'un était avec elle."
         }
       ],
-      "next":"ellipse"
+      "next":"elipse"
     },
 
-    "ellipse":{
+    "elipse":{
       "musique":"melancolie",
       "fond":"nooir",
       "dialogues":[
